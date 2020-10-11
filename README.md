@@ -1,5 +1,6 @@
 ## Ant Design Navbar
 A fully responsive Navbar made using [Ant Design](https://ant.design/) v4.7 and React.
+This navbar is based on (ant-design-responsive-navbar) [https://github.com/graphicskart/ant-design-responsive-navbar] which is made using Ant Design v3.x
 
 
 ## How run this on your machine
