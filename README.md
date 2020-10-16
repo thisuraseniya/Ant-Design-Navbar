@@ -3,7 +3,7 @@ A fully responsive Navbar made using [Ant Design](https://ant.design/) v4.7 and 
 This navbar is based on [ant-design-responsive-navbar](https://github.com/graphicskart/ant-design-responsive-navbar) which is made using Ant Design v3.x
 
 
-## How run this on your machine
+## How to run this on your machine
 
 1. [Fork](https://github.com/thisuraseniya/Ant-Design-Navbar/fork) the repository.
 
